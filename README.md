@@ -1,2 +1,2 @@
 # GitLabs
-GitLabs - Writing logs to file  adn promp (if needed)
+GitLabs - Writing logs to file and to prompt (if needed)
