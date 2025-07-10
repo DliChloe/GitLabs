@@ -1,5 +1,2 @@
 # GitLabs
-GitLabs
-
-
-Test de save w 
+GitLabs - Writing logs to file  adn promp (if needed)
